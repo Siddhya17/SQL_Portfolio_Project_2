@@ -1,1 +1,2 @@
-# SQL_Portfolio_Projrct_2
+"This SQL project focuses on analyzing job-related data using a Jobs table. The table captures key information such as work year, job title, category, salary details, employee residence, experience level, employment type, work setting, company location, and company size. The project aims to perform various queries and analysis to gain insights into job trends, salary distributions, and other relevant metrics within the dataset."
+# SQL_Portfolio_Projrct_2 #Jobs_In_Data
